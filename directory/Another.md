@@ -2,11 +2,11 @@
 
 #### This is another
 
-[turn to baidu]("www.baidu.com" "百度")
+[turn to baidu]("https://www.baidu.com" "百度")
 
 [__click to README__]("https://github.com/jonathonyoung2020/English/edit/main/directory/README.md")
 
-![logo]("https://github.com/jonathonyoung2020/English/edit/main/directory/4b2282baadf0602c!200x200.jpg)
+![logo]("https://github.com/jonathonyoung2020/English/edit/main/directory/4b2282baadf0602c!200x200.jpg")
 
 ```bash
 npm install
