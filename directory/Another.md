@@ -6,7 +6,8 @@
 
 [__click to README__](https://github.com/jonathonyoung2020/English/edit/main/directory/README.md)
 
-![logo](../4b2282baadf0602c!200x200.jpg)
+![logo](./4b2282baadf0602c!200x200.jpg)
+
 ![logo](https://i0.hdslb.com/bfs/archive/01802fbd309f205588968cb5c2a01a7805685cce.jpg@203w_127h_1e_1c.webp)
 
 ```bash
