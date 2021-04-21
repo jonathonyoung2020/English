@@ -6,7 +6,7 @@
 
 [__click to README__](https://github.com/jonathonyoung2020/English/edit/main/directory/README.md)
 
-![logo](/4b2282baadf0602c!200x200.jpg)
+![logo](4b2282baadf0602c!200x200.jpg)
 
 ```bash
 npm install
